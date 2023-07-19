@@ -1,5 +1,9 @@
 ## Readme
 
+## `npm i`
+
+Instala librerías, frameworks y otras herramientas de desarrollo para tu proyecto
+
 ## `npm start`
 
 Inicializar el backend
