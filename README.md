@@ -1,10 +1,10 @@
 ### Features
 
-####Casos de uso
+#### Casos de uso
 
 
 
-####Diagrama de paquetes
+#### Diagrama de paquetes
 
 
 
@@ -14,9 +14,15 @@ Se está ocupando el modelo vista controlador (MVC), en donde la vista es la int
 
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Diagrama%20en%20blanco_1.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Diagrama%20en%20blanco_1.png "Diagrama MVC")
 
+#### Vista
+
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_1.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_1.png "Vista")
 
+### Controlador
+
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_2.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_2.png "Controlador")
+
+### Modelo
 
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png "Modelo_db")
 
