@@ -1,12 +1,4 @@
-## Features
-
-### Casos de uso
-
-[![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/casosuso.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/casosuso.png "Casos de uso")
-
-### Diagrama de paquetes
-
-[![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/xd.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/xd.png "Diagrama de paquetes")
+## Readme
 
 ### Modelo de desarrollo de software
 
@@ -27,3 +19,11 @@ Se está ocupando el modelo vista controlador (MVC), en donde la vista es la int
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png "Modelo_db")
 
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_4.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_4.png "Modelo")
+
+### Casos de uso
+
+[![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/casosuso.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/casosuso.png "Casos de uso")
+
+### Diagrama de paquetes
+
+[![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/xd.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/xd.png "Diagrama de paquetes")
