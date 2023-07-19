@@ -27,5 +27,3 @@ Se está ocupando el modelo vista controlador (MVC), en donde la vista es la int
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_3.png "Modelo_db")
 
 [![](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_4.png)](https://github.com/samuSR123/projecto-node/blob/main/img%20readme/Screenshot_4.png "Modelo")
-
-###End
